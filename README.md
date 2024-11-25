@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @mohmedusama29126
+- 👀 I’m interested in fullstack
+- 🌱 I’m currently learning C# / JAVA Script / php / html / CSS.
+- 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+mohmedusama29126/mohmedusama29126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
